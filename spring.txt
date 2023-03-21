@@ -3,4 +3,6 @@ hello world {
   echo "hello world"
 
  echo "springboot"
+
+echo "java application"
 }
