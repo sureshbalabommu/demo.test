@@ -6,5 +6,5 @@ Echo "hello suresh"
 
 echo "hello naresh"
 
-
+echo "hello my friend"
 }
