@@ -10,6 +10,8 @@ echo "hello my friend"
 }
 
 }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+hello naresh where are u going on here {
+}
 
 
 
