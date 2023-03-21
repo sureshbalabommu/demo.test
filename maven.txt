@@ -1,0 +1,4 @@
+hello maven {
+
+Echo "maven"
+}
