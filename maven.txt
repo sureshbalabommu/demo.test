@@ -2,8 +2,12 @@ hello maven {
 
 Echo "maven"
 
-Echo "hello suresh"
+Echo "hello suresh"{
 
+}
+bjsl mskno;a masscnja a
+mnxksljlas cn sc
+c znkcas, 
 echo "hello naresh"
 
 echo "hello my friend"
